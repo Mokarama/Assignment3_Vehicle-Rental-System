@@ -33,7 +33,7 @@ In this file, I have written SQL queries to retrieve meaningful information from
 
 ---
 
-### 🔹 Query 1: INNER JOIN  
+###  Query 1: INNER JOIN  
 **Purpose:**  
 To retrieve booking information along with the customer name and vehicle name.
 
